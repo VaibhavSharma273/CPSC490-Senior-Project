@@ -3,8 +3,8 @@ This directory contains the STL files for the three 3D printed components of thi
 
 | Setting               | Value        |
 | ----------------------|:------------:|
-| Printing Temperature  | 215 C    |
-| Bed Temperature       | 70 C     |
-| Speed                 | 60 mm/s  | 
-| Layer Height          | 0.12 mm  | 
-| Infill                | 30 %     | 
+| Printing Temperature  | 215 C        |
+| Bed Temperature       | 70 C         |
+| Speed                 | 60 mm/s      | 
+| Layer Height          | 0.12 mm      | 
+| Infill                | 30 %         | 
